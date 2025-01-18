@@ -1,3 +1,5 @@
-# Compléter ici !!!!???
-
-node_modules
+node_modules/
+.env
+*.log
+coverage/
+.DS_Store
